@@ -23,3 +23,11 @@ Source ( Data Structures & Algorithms (Michael T) -> P-1.30 ) <br>
 [Solution](solutions/problem_002.py)
 
 ---
+
+#### Problem 3
+
+Given a list of numbers, return whether any two sums to k. For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
+Source ( https://www.dailycodingproblem.com ) <br>
+[Solution](solutions/problem_003.py)
+
+---
