@@ -13,3 +13,13 @@ Source ( Data Structures & Algorithms (Michael T) -> P-1.36 ) <br>
 [Solution](solutions/problem_001.py)
 
 ---
+
+#### Problem 2
+
+Given a positive integer greater than 2 as input and write out the number of times
+one must repeatedly divide this number by 2 before getting a value less than 2.
+For example number = 10 return 3
+Source ( Data Structures & Algorithms (Michael T) -> P-1.30 ) <br>
+[Solution](solutions/problem_002.py)
+
+---
