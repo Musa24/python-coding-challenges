@@ -31,3 +31,14 @@ Source ( https://www.dailycodingproblem.com ) <br>
 [Solution](solutions/problem_003.py)
 
 ---
+
+#### Problem 4
+
+Given an unsorted integer array , find all pair with given sum in it
+Source ( https://blog.usejournal.com/
+example Input: arr [8,7,2,5,3,1] , sum 10
+Output: (8+2) ,(7+3)
+500-data-structures-and-algorithms-practice-problems-35afe8a1e222 ) <br>
+[Solution](solutions/problem_004.py)
+
+---
